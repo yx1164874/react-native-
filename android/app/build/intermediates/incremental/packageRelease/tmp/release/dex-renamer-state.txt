@@ -1,0 +1,4 @@
+#Fri Jul 19 16:11:26 CST 2019
+base.0=/Users/admin/Desktop/书籍/react-native-/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
