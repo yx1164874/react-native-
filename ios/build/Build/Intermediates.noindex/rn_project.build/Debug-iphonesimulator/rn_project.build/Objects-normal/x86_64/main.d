@@ -1,2 +1,3 @@
-dependencies: /Users/admin/Desktop/rn_project/ios/rn_project/main.m \
-  /Users/admin/Desktop/rn_project/ios/rn_project/AppDelegate.h
+dependencies: \
+  /Users/admin/Desktop/BOOK/react-native-/ios/rn_project/main.m \
+  /Users/admin/Desktop/BOOK/react-native-/ios/rn_project/AppDelegate.h

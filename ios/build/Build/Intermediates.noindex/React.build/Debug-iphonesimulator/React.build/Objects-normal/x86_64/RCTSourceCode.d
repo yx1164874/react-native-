@@ -3,6 +3,8 @@ dependencies: \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Modules/RCTSourceCode.h \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
   /Users/admin/Desktop/BOOK/react-native-/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
