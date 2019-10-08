@@ -104,7 +104,7 @@ export default class App extends Component {
           this.isIphoneX("top")
         }
         <View style={{ flex: 1}}>
-          <Life></Life>
+          
         </View>
         {
           this.isIphoneX("bottom")
